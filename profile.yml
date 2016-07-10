@@ -1,0 +1,14 @@
+description: TODO - Describe your profile
+repositories:
+    - "https://repo.grails.org/grails/core2"
+features:
+    defaults:
+        - hibernate
+build:
+    repositories:
+        - "https://repo.grails.org/grails/core3"
+    plugins:
+        - org.akhikhl.gretty
+dependencies:
+    build:
+        - "org.akhikhl.gretty:gretty:+"

@@ -1,0 +1,4 @@
+# TODO: profile custom configuration
+foo:
+    bar: mysetting
+    ok: mysec
